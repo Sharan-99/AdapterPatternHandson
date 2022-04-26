@@ -1,0 +1,10 @@
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\bin\Debug\AdapterHandsOnClient.exe.config
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\bin\Debug\AdapterHandsOnClient.exe
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\bin\Debug\AdapterHandsOnClient.pdb
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\bin\Debug\AdapterHandsOn.dll
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\bin\Debug\AdapterHandsOn.pdb
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\obj\Debug\AdapterHandsOnClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\obj\Debug\AdapterHandsOnClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\obj\Debug\AdapterHandsOnClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\obj\Debug\AdapterHandsOnClient.exe
+C:\Users\2091199\source\repos\AdapterHandsOnClient\AdapterHandsOnClient\obj\Debug\AdapterHandsOnClient.pdb
